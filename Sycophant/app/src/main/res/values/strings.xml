@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Interest</string>
+    <string name="ci">Compound Interest</string>
+    <string name="give_amount_to_calculate_simple_interest_here">Give amount to calculate Simple Interest here.</string>
+    <string name="give_it_here">Give it here.</string>
+    <string name="enter_rate_here">Enter rate here.</string>
+    <string name="time_in_years">Time in years</string>
+    <string name="click_to_proceed">Click to Proceed</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="compound_ke_liye_idhar">Compound ke liye idhar</string>
+
+</resources>
