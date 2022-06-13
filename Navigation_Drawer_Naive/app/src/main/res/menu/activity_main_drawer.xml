@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inbox"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="Inbox" />
+        <item
+            android:id="@+id/nav_sentitems"
+            android:icon="@drawable/ic_baseline_mark_email_read_24"
+            android:title="Sent Items" />
+        <item
+            android:id="@+id/nav_outbox"
+            android:icon="@drawable/ic_baseline_mail_outline_24"
+            android:title="Outbox" />
+        <item
+            android:id="@+id/nav_spam"
+            android:icon="@drawable/ic_baseline_error_24"
+            android:title="Spam" />
+    </group>
+</menu>

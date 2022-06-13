@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kaam aasan</string>
+    <string name="enter_url_here_or_id_will_do">Enter URl here, or id will do</string>
+    <string name="give_the_url_or_id_here">Give the url or id here.</string>
+    <string name="to_mail_an_entity">To mail an entity</string>
+    <string name="rush_along_now">Rush along now</string>
+    <string name="idhar_ghusa">Idhar ghusa</string>
+    <string name="button">Send it, no pressure</string>
+    <string name="enter_mail_body_here">Enter mail body here.</string>
+</resources>
