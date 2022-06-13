@@ -1,0 +1,3 @@
+rootProject.name = "Jyawalk"
+include ':app'
+include ':Java _Feeler'
